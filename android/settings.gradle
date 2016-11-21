@@ -1,0 +1,3 @@
+rootProject.name = 'opentani_client'
+
+include ':app'
