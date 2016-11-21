@@ -15,12 +15,13 @@ import ReactNative, {
 import React from 'react';
 
 import SignUp from './app/route/signup/signup';
+import Login from './app/route/login/login';
 
 class opentani_client extends React.Component {
   render() {
     return (
       <View>
-        <SignUp />
+        <Login />
       </View>
       );
   }
